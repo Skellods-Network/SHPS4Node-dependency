@@ -1,0 +1,11 @@
+{
+    "name": "SHPS4Node-dependency",
+    "version": "1.0.0",
+    "description": "Dynamic Dependency Relay used by SHPS",
+    "author": "Marco Alka <me@marco-alka.de>",
+    "main": "index-dependency.js",
+    "dependency": {
+        "node-mod-load": "^2.1.0",
+        "q": "^1.2.0"
+    }
+}
